@@ -31,7 +31,7 @@ End the program and close the output video window by pressing 'q'.
 <br>
 
 ## Program:
-``` Python
+
 ### Developed By: YOGESH. V
 ### Register No: 212223230250
 
